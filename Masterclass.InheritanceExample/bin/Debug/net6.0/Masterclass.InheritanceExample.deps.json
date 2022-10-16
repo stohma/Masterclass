@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Masterclass.InheritanceExample/1.0.0": {
+        "dependencies": {
+          "Masterclass": "1.0.0",
+          "Masterclass.inheritanceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Masterclass.InheritanceExample.dll": {}
+        }
+      },
+      "Masterclass/1.0.0": {
+        "runtime": {
+          "Masterclass.dll": {}
+        }
+      },
+      "Masterclass.inheritanceLibrary/1.0.0": {
+        "dependencies": {
+          "Masterclass": "1.0.0"
+        },
+        "runtime": {
+          "Masterclass.inheritanceLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Masterclass.InheritanceExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Masterclass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Masterclass.inheritanceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

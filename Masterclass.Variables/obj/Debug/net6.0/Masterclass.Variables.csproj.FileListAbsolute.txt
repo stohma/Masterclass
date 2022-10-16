@@ -1,0 +1,15 @@
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\bin\Debug\net6.0\Masterclass.Variables.exe
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\bin\Debug\net6.0\Masterclass.Variables.deps.json
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\bin\Debug\net6.0\Masterclass.Variables.runtimeconfig.json
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\bin\Debug\net6.0\Masterclass.Variables.dll
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\bin\Debug\net6.0\Masterclass.Variables.pdb
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.csproj.AssemblyReference.cache
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.AssemblyInfoInputs.cache
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.AssemblyInfo.cs
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.csproj.CoreCompileInputs.cache
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.dll
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\refint\Masterclass.Variables.dll
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.pdb
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\Masterclass.Variables.genruntimeconfig.cache
+C:\Users\stohma\RiderProjects\Masterclass\Masterclass.Variables\obj\Debug\net6.0\ref\Masterclass.Variables.dll

@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.InheritanceExample\\Masterclass.InheritanceExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.InheritanceExample\\Masterclass.InheritanceExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.InheritanceExample\\Masterclass.InheritanceExample.csproj",
+        "projectName": "Masterclass.InheritanceExample",
+        "projectPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.InheritanceExample\\Masterclass.InheritanceExample.csproj",
+        "packagesPath": "C:\\Users\\stohma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.InheritanceExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stohma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.inheritanceLibrary\\Masterclass.inheritanceLibrary.csproj": {
+                "projectPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.inheritanceLibrary\\Masterclass.inheritanceLibrary.csproj"
+              },
+              "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj": {
+                "projectPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\stohma\\.dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.inheritanceLibrary\\Masterclass.inheritanceLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.inheritanceLibrary\\Masterclass.inheritanceLibrary.csproj",
+        "projectName": "Masterclass.inheritanceLibrary",
+        "projectPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.inheritanceLibrary\\Masterclass.inheritanceLibrary.csproj",
+        "packagesPath": "C:\\Users\\stohma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass.inheritanceLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stohma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj": {
+                "projectPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\stohma\\.dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj",
+        "projectName": "Masterclass",
+        "projectPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\Masterclass.csproj",
+        "packagesPath": "C:\\Users\\stohma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stohma\\RiderProjects\\Masterclass\\Masterclass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stohma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\stohma\\.dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
